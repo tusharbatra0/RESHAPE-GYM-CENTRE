@@ -1,0 +1,63 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+.Box{
+    width:500px;
+   height:500px;
+    background-color:yellow;
+    border: 3px solid black;
+    position:relative;
+    left:400px;
+    top:30px;
+    
+}
+
+.Box1{
+    width:100px;
+    height:100px;
+    background-color:brown;
+    border:3px solid darkblue;
+    position:absolute;
+    left:0px;
+
+}
+
+.Box2{
+    width:100px;
+    height:100px;
+    background-color:darkgoldenrod;
+    border:3px solid darkblue;
+    position:absolute;
+    right:0px;
+}
+
+.Box3{
+    width:100px;
+    height:100px;
+    background-color:darksalmon;
+    border:3px solid darkblue;
+    position:absolute;
+    right:0px;
+    bottom:0px;
+}
+
+.Box4{
+    width:100px;
+    height:100px;
+    background-color:dodgerblue;
+    border:3px solid darkblue;
+    position:absolute;
+    left:0px;
+    bottom:0px;
+}
+
+.Box5{
+    width:100px;
+    height:100px;
+  
+    position:absolute;
+    left:200px;
+    top:200px;
+}
